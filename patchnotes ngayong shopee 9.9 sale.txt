@@ -1,0 +1,40 @@
+patchnotes ngayong shopee 9.9 sale
+
+timetable pdf generator now works with data in database
+once distributed, timetable saves in database now (TEMPORARY: will do it nasesave as pdf, will fix)
+crud on faculty and courses now works, nasesave na sa database
+added feature when creating faculty to automatically generate password using emp no. (eg. EMP-2025-067 becomes emp2025067, may preview to when entering employee number), oh yeah auto hash din to
+everything on the dashboard now reflects real data on the database
+
+
+
+picture ni kuromi na walang kinalaman sa code below
+⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛
+⬜⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛
+⬜⬛⬛⬛⬛⬛⬛⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜
+⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜
+⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜
+⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛🟪🟪🟪🟪🟪⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜
+⬜⬜⬛⬛⬛⬛⬛⬛⬛🟪🟪🟪🟪🟪🟪🟪⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬛⬛⬛⬛⬛🟪⬛🟪🟪🟪⬛🟪⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛🟪🟪🟪🟪🟪⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛🟪🟪🟪⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬛⬛⬛⬛⬛⬜⬜⬛⬛⬛⬛⬛⬜⬜⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬛⬛⬛⬛⬜⬜⬜⬜⬜⬛⬜⬜⬜⬜⬜⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬛⬛⬛⬜⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬜⬛⬛⬛⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬛⬛⬛⬜⬛⬛⬜⬜⬜⬜⬜⬜⬜⬛⬛⬜⬛⬛⬛⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬛⬛⬜⬛⬛⬜⬜⬜⬜⬜⬜⬜⬛⬛⬜⬛⬛⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬛⬜⬜⬜⬜⬜⬜🟪⬜⬜⬜⬜⬜⬜⬛⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜🟪⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟪⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬜⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬜⬜⬜⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬛⬛⬜⬛⬜⬛⬛⬜⬜⬜⬜⬜⬛⬛⬜⬛⬜⬛⬛⬜⬜⬜⬜⬜⬜
+⬜⬜⬛⬜⬜⬛⬜⬜🟪⬜⬛⬜⬜⬜⬛⬜🟪⬜⬜⬛⬜⬜⬛⬜⬜⬜⬜⬜
+⬜⬜⬛⬜⬜⬜⬜⬜⬛⬜⬛⬜⬜⬜⬛⬜⬛⬜⬜⬜⬜⬜⬛⬜⬜⬜⬜⬜
+⬜⬜⬛⬜⬜⬜⬜⬜⬛⬜⬜⬛⬜⬛⬜⬜⬛⬜⬜⬜⬜⬜⬛⬜⬜⬜⬜⬜
+⬜⬜⬜⬛⬜⬜⬛⬛⬛⬜⬜⬛⬛⬛⬜⬜⬛⬛⬛⬜⬜⬛⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬛⬛⬜⬜⬜⬛⬛⬜⬜⬜⬛⬛⬜⬜⬜⬛⬛⬜⬜⬜⬜⬜⬜⬜
